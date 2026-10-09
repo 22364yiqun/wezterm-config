@@ -41,7 +41,7 @@ Other WezTerm shortcuts keep their defaults. See the [default key assignments](h
 
 `Ctrl+Alt+T` launches WezTerm on my PC. This is a **Windows shortcut setting**, not a WezTerm Lua setting, so it is not included in `wezterm.lua`.
 
-To set it yourself, create a shortcut to `wezterm-gui.exe` in your Start menu, open its **Properties**, and set **Shortcut key** to `Ctrl+Alt+T`.
+To set it yourself, create a desktop shortcut to `wezterm-gui.exe`, open its **Properties**, and set **Shortcut key** to `Ctrl+Alt+T`. Keep the desktop shortcut in place so Windows can register the hotkey.
 
 ## Reference
 
