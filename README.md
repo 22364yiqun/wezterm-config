@@ -39,9 +39,9 @@ Other WezTerm shortcuts keep their defaults. See the [default key assignments](h
 
 ## Launch shortcut on Windows
 
-`Ctrl+Alt+W` launches WezTerm on my PC. This is a **Windows shortcut setting**, not a WezTerm Lua setting, so it is not included in `wezterm.lua`.
+`Ctrl+Alt+T` launches WezTerm on my PC. This is a **Windows shortcut setting**, not a WezTerm Lua setting, so it is not included in `wezterm.lua`.
 
-To set it yourself, create a shortcut to `wezterm-gui.exe` in your Start menu, open its **Properties**, and set **Shortcut key** to `Ctrl+Alt+W`.
+To set it yourself, create a shortcut to `wezterm-gui.exe` in your Start menu, open its **Properties**, and set **Shortcut key** to `Ctrl+Alt+T`.
 
 ## Reference
 
