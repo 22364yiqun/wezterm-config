@@ -37,12 +37,6 @@ WezTerm loads this file automatically. If it is already open, press `Ctrl+Shift+
 
 Other WezTerm shortcuts keep their defaults. See the [default key assignments](https://wezterm.org/config/default-keys.html).
 
-## Launch shortcut on Windows
-
-`Ctrl+Alt+T` launches WezTerm on my PC. This is a **Windows shortcut setting**, not a WezTerm Lua setting, so it is not included in `wezterm.lua`.
-
-To set it yourself, create a desktop shortcut to `wezterm-gui.exe`, open its **Properties**, and set **Shortcut key** to `Ctrl+Alt+T`. Keep the desktop shortcut in place so Windows can register the hotkey.
-
 ## Reference
 
 - [WezTerm configuration file locations and reload behavior](https://wezterm.org/config/files.html)
